@@ -1,0 +1,3 @@
+#!/bin/bash
+path='readl'readlink -f "${BASH_SOURCE:-$0}"'
+
