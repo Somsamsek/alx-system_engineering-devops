@@ -1,0 +1,1 @@
+Task 0: This is a script that switches the current user to "betty"
